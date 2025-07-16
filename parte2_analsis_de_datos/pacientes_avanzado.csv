@@ -1,0 +1,31 @@
+nombre,edad,sexo,temperatura,sintoma
+Pedro,20,M,39.3,tos
+Maria,54,M,38.2,fiebre
+Zorjuana,68,M,37.3,fatiga
+Jose,24,M,37.6,ninguno
+Pedro,38,M,36.3,fatiga
+Elena,26,M,36.3,ninguno
+Carlos,56,F,35.5,ninguno
+Pedro,35,F,36,tos
+Sofia,21,M,37.8,ninguno
+Jose,42,M,36.4,fatiga
+Maria,31,M,37.6,ninguno
+Samuel,67,M,38.4,tos
+Solomon,26,M,37.4,tos
+Carlos,43,M,37.7,fatiga
+Lucas,19,M,36.4,dolor de cabeza
+Antonio,37,M,37.1,dolor de cabeza
+Luisa,45,F,38.5,ninguno
+Juan,64,M,36.2,fiebre
+Gloria,24,F,38.1,ninguno
+Luis,61,M,38.8,fatiga
+Pedro,25,M,37.6,fatiga
+Ana,64,F,35.7,fatiga
+Elena,52,M,37.5,fatiga
+Jessica,31,F,37.1,fatiga
+Miguel,34,M,37.6,tos
+Armando,53,M,37.9,dolor de cabeza
+Elena,67,F,36.5,fatiga
+Carlos,57,M,36.4,fiebre
+Elizabeth,21,F,37.1,fiebre
+Eduardo,19,M,36.3,fiebre
